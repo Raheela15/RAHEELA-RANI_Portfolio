@@ -1,0 +1,115 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 2313 >>
+stream
+BT
+/F2 20 Tf
+1 0 0 1 54 744 Tm
+(RAHEELA RANI) Tj
+/F1 10.5 Tf
+1 0 0 1 54 724 Tm
+(Python Developer | Data Analyst | MS Mathematics | Teacher at APS) Tj
+/F1 9.5 Tf
+1 0 0 1 54 706 Tm
+(Email: raheelarani686@gmail.com   |   Mobile: 03098205388) Tj
+/F1 9.5 Tf
+1 0 0 1 54 692 Tm
+(GitHub: https://github.com/Raheela15   |   LinkedIn: https://www.linkedin.com/in/raheelarani/) Tj
+/F2 12 Tf
+1 0 0 1 54 660 Tm
+(EDUCATION) Tj
+/F2 10.5 Tf
+1 0 0 1 54 643 Tm
+(MS Mathematics \(In Progress\)) Tj
+/F1 9.5 Tf
+1 0 0 1 54 629 Tm
+(Currently Enrolled — Advanced Mathematical Analysis & Quantitative Research) Tj
+/F2 10.5 Tf
+1 0 0 1 54 610 Tm
+(BS Mathematical Sciences) Tj
+/F1 10 Tf
+1 0 0 1 54 596 Tm
+(Federal Urdu University of Arts, Science & Technology \(FUUAST\)) Tj
+/F1 10 Tf
+1 0 0 1 54 582 Tm
+(Graduation: December 2025   |   CGPA: 3.75) Tj
+/F2 12 Tf
+1 0 0 1 54 550 Tm
+(EXPERIENCE) Tj
+/F2 10.5 Tf
+1 0 0 1 54 533 Tm
+(Teacher — APS \(Army Public School\)   |   Present) Tj
+/F1 9.5 Tf
+1 0 0 1 54 519 Tm
+(Delivering structured mathematics instruction and guiding analytical problem solving.) Tj
+/F2 12 Tf
+1 0 0 1 54 487 Tm
+(TECHNICAL SKILLS) Tj
+/F1 10 Tf
+1 0 0 1 54 470 Tm
+(Programming & Web: Python, Basic Machine Learning, Django, HTML5, CSS3) Tj
+/F1 10 Tf
+1 0 0 1 54 455 Tm
+(Data Analysis & Tools: Pandas, Data Cleaning, Data Analysis, SQL, Streamlit, Git & GitHub) Tj
+/F2 12 Tf
+1 0 0 1 54 423 Tm
+(FEATURED PROJECTS) Tj
+/F2 10.5 Tf
+1 0 0 1 54 406 Tm
+(1. Netflix Data Cleaning Dashboard) Tj
+/F1 9.5 Tf
+1 0 0 1 54 392 Tm
+(   Repository: https://github.com/Raheela15/Python-Data-Analysis) Tj
+/F1 9.5 Tf
+1 0 0 1 54 378 Tm
+(   Structured data cleaning workflow handling missing values, duplicates, and type standardization.) Tj
+/F2 10.5 Tf
+1 0 0 1 54 354 Tm
+(2. Netflix Content Analysis) Tj
+/F1 9.5 Tf
+1 0 0 1 54 340 Tm
+(   Repository: https://github.com/Raheela15/Netflix-Content-Analysis) Tj
+/F1 9.5 Tf
+1 0 0 1 54 326 Tm
+(   Exploratory analysis of catalog distribution, release trends, genres, and content ratings.) Tj
+/F2 10.5 Tf
+1 0 0 1 54 302 Tm
+(3. Netflix Data Analytics Dashboard) Tj
+/F1 9.5 Tf
+1 0 0 1 54 288 Tm
+(   Repository: https://github.com/Raheela15/Netflix-Data-Analytics-Dashboard) Tj
+/F1 9.5 Tf
+1 0 0 1 54 274 Tm
+(   Interactive analytics dashboard for filtering and visualizing streaming dataset insights.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000002616 00000 n 
+0000002686 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+2761
+%%EOF
